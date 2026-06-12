@@ -1,0 +1,27 @@
+# Meeting Notes — Week1
+---
+
+**Date:** 2026-06-08
+**Type:** Kickoff Meeting / Workshop
+**Attendees:** FURP Students, Lecturers
+
+## Discussion summary
+- There are 3 important rules to get the FURP certificate.
+- We must attend > 50% of activities.
+- We need to submit a poster file named `FURP_Showcase.pdf` to the repo root.
+- We must present the poster at the Showcase in person or find a stand-in.
+- We learned what GitHub is and how to use it to share our progress with the supervisor.
+
+## Decisions made
+- Our project will use Agile management and GitHub for workflow.
+- Every week we must update `00_weekly.md`, log meeting notes, and join the weekly meeting.
+- A verbal message for leave is not okay; we must send an email for any leave or withdrawal.
+
+## Action items
+- [ ] Create my GitHub repository and check "Add a README file"  — Me — 2026-06-12
+- [ ] Choose Public mode or use Private mode to invite supervisor with "Read" access — Me — 2026-06-12
+- [ ] Send the GitHub link to the supervisor  — Me — 2026-06-12
+- [ ] Setup standard folder structure: create `/docs`, `00_weekly.md`, and `meeting_notes/` — Me — 2026-06-12
+
+## Questions / follow-ups
+- If I want to change my project track later, I need to email the project lead with the subject "Project Transfer Request" and CC my supervisor.
