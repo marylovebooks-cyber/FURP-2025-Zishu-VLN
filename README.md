@@ -25,16 +25,17 @@ This is your project home for the FURP programme. **Fork this template**, rename
 
 | Field | Your entry |
 |---|---|
-| Student name(s) | _e.g. Jason Zhang_ |
-| Project title | _..._ |
-| Project tag | _e.g. ROSBootcamp_ |
+| Student name(s) | Zishu He |
+| Project title | Vision-Language Navigation for an AMR |
+| Project tag | VLN |
 | Track | Research |
 | Supervising faculty | _..._ |
 | Project lead | _..._ |
 | Team or individual | _..._ |
 | Cited paper being replicated | _title + link/DOI_ |
 
-**One-line summary:** _What is your project about? (1–2 sentences)_
+**One-line summary:** 
+This project develops a Vision-Language Navigation pipeline for simulated autonomous mobile robots to follow natural language indoor navigation instructions, with full implementation, evaluation, a working demo, benchmark results, and open-source code.
 
 ---
 
