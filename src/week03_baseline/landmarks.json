@@ -1,0 +1,22 @@
+{
+  "lab entrance": {
+    "x": 0.0,
+    "y": 0.0,
+    "theta": 0.0
+  },
+  "blue poster": {
+    "x": 2.4,
+    "y": 1.2,
+    "theta": 1.57
+  },
+  "charging station": {
+    "x": -1.5,
+    "y": 2.0,
+    "theta": 3.14
+  },
+  "meeting table": {
+    "x": 3.0,
+    "y": -0.8,
+    "theta": 0.0
+  }
+}

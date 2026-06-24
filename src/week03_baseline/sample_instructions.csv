@@ -1,0 +1,5 @@
+instruction,expected_landmark
+go to the lab entrance,lab entrance
+move to the blue poster,blue poster
+navigate to the charging station,charging station
+go to the meeting table,meeting table

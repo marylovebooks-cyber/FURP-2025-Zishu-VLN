@@ -1,0 +1,5 @@
+instruction,expected_landmark,predicted_landmark,success,nav2_goal_json
+go to the lab entrance,lab entrance,lab entrance,True,"{""target"":""lab entrance"",""frame_id"":""map"",""pose"":{""x"":0.0,""y"":0.0,""theta"":0.0}}"
+move to the blue poster,blue poster,blue poster,True,"{""target"":""blue poster"",""frame_id"":""map"",""pose"":{""x"":2.4,""y"":1.2,""theta"":1.57}}"
+navigate to the charging station,charging station,charging station,True,"{""target"":""charging station"",""frame_id"":""map"",""pose"":{""x"":-1.5,""y"":2.0,""theta"":3.14}}"
+go to the meeting table,meeting table,meeting table,True,"{""target"":""meeting table"",""frame_id"":""map"",""pose"":{""x"":3.0,""y"":-0.8,""theta"":0.0}}"

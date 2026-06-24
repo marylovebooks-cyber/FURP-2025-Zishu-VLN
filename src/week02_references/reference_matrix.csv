@@ -1,0 +1,6 @@
+priority,reference,category,main_use,week_output
+1,R2R benchmark,VLN benchmark,Understand task definition and SR/SPL/NE metrics,Reading note and metric summary
+2,VLN-CE,Continuous VLN,Connect VLN to robot-like continuous movement,Justification for AMR integration path
+3,Habitat-Lab,Simulation platform,Potential simulator baseline for PointNav/ObjectNav/VLN-CE,Backup simulator option
+4,RxR,VLN dataset,Understand richer and multilingual route instructions,Future extension note
+5,ROS 2 Nav2,AMR navigation stack,Execute waypoint or goal pose from high-level instruction,Week 3/4 interface baseline
