@@ -1,0 +1,2 @@
+initial_x,initial_y,initial_yaw,goal_x,goal_y,goal_yaw,timeout_sec,duration_sec,nav2_result,last_feedback_distance_m
+-2.0,-0.5,0.0,0.0,0.0,0.0,180.0,18.074,SUCCEEDED,0.050

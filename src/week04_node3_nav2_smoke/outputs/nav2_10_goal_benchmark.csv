@@ -1,0 +1,11 @@
+trial_id,label,goal_x,goal_y,goal_yaw,timeout_sec,duration_sec,nav2_result,success,timed_out,feedback_count,last_feedback_distance_m,min_feedback_distance_m
+1,center_approach,-1.5,-0.5,0.0,120.0,1.806,SUCCEEDED,True,False,3,0.296,0.296
+2,left_to_center_line,-1.0,-0.5,0.0,120.0,3.011,SUCCEEDED,True,False,5,0.271,0.271
+3,near_center_left,-0.5,-0.5,0.0,120.0,2.464,SUCCEEDED,True,False,4,0.371,0.371
+4,center_lower,0.0,-0.5,0.0,120.0,3.011,SUCCEEDED,True,False,5,0.271,0.271
+5,map_center,0.0,0.0,0.0,120.0,9.674,SUCCEEDED,True,False,16,0.050,0.050
+6,center_upper_left,-0.5,0.0,0.0,120.0,11.425,SUCCEEDED,True,False,19,0.050,0.000
+7,upper_left,-1.0,0.0,0.0,120.0,11.494,SUCCEEDED,True,False,19,0.050,0.000
+8,upper_spawn_side,-1.5,0.0,0.0,120.0,66.122,SUCCEEDED,True,False,110,0.050,0.000
+9,near_spawn_upper,-2.0,0.0,0.0,120.0,10.263,SUCCEEDED,True,False,17,0.050,0.000
+10,return_spawn,-2.0,-0.5,0.0,120.0,9.020,SUCCEEDED,True,False,15,0.050,0.000
