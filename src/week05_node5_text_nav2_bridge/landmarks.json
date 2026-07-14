@@ -1,0 +1,50 @@
+{
+  "center approach": {
+    "aliases": ["center approach", "approach center"],
+    "x": -1.5,
+    "y": -0.5,
+    "theta": 0.0
+  },
+  "map center": {
+    "aliases": ["map center", "center", "middle"],
+    "x": 0.0,
+    "y": 0.0,
+    "theta": 0.0
+  },
+  "center lower": {
+    "aliases": ["center lower", "lower center"],
+    "x": 0.0,
+    "y": -0.5,
+    "theta": 0.0
+  },
+  "center upper left": {
+    "aliases": ["center upper left", "upper center left"],
+    "x": -0.5,
+    "y": 0.0,
+    "theta": 0.0
+  },
+  "upper left": {
+    "aliases": ["upper left", "top left"],
+    "x": -1.0,
+    "y": 0.0,
+    "theta": 0.0
+  },
+  "upper spawn side": {
+    "aliases": ["upper spawn side", "spawn upper side"],
+    "x": -1.5,
+    "y": 0.0,
+    "theta": 0.0
+  },
+  "near spawn upper": {
+    "aliases": ["near spawn upper", "spawn upper"],
+    "x": -2.0,
+    "y": 0.0,
+    "theta": 0.0
+  },
+  "return spawn": {
+    "aliases": ["return spawn", "spawn", "start"],
+    "x": -2.0,
+    "y": -0.5,
+    "theta": 0.0
+  }
+}

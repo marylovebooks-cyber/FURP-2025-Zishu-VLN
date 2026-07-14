@@ -1,0 +1,9 @@
+trial_id,instruction,expected_landmark
+1,go to center approach,center approach
+2,move to the map center,map center
+3,navigate to center lower,center lower
+4,go to center upper left,center upper left
+5,move to upper left,upper left
+6,go to upper spawn side,upper spawn side
+7,navigate to near spawn upper,near spawn upper
+8,return to spawn,return spawn

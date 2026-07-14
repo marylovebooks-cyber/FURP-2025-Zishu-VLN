@@ -1,0 +1,9 @@
+trial_id,instruction,expected_landmark,parsed_landmark,parse_success,goal_x,goal_y,goal_yaw,timeout_sec,duration_sec,nav2_result,nav2_success,timed_out,feedback_count,last_feedback_distance_m,min_feedback_distance_m
+1,go to center approach,center approach,center approach,True,-1.500,-0.500,0.000,120.0,1.809,SUCCEEDED,True,False,3,0.296,0.296
+2,move to the map center,map center,map center,True,0.000,0.000,0.000,120.0,22.843,SUCCEEDED,True,False,38,0.071,0.071
+3,navigate to center lower,center lower,center lower,True,0.000,-0.500,0.000,120.0,13.834,SUCCEEDED,True,False,23,0.071,0.071
+4,go to center upper left,center upper left,center upper left,True,-0.500,0.000,0.000,120.0,12.074,SUCCEEDED,True,False,20,0.050,0.000
+5,move to upper left,upper left,upper left,True,-1.000,0.000,0.000,120.0,17.434,SUCCEEDED,True,False,29,0.050,0.000
+6,go to upper spawn side,upper spawn side,upper spawn side,True,-1.500,0.000,0.000,120.0,21.035,SUCCEEDED,True,False,35,0.050,0.050
+7,navigate to near spawn upper,near spawn upper,near spawn upper,True,-2.000,0.000,0.000,120.0,10.823,SUCCEEDED,True,False,18,0.050,0.000
+8,return to spawn,return spawn,return spawn,True,-2.000,-0.500,0.000,120.0,10.221,SUCCEEDED,True,False,17,0.050,0.050
